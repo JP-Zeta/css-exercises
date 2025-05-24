@@ -1,0 +1,18 @@
+.impar {
+    background-color: #e97f7f;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#primerPar {
+    color: blue;
+    font-size: 36px;
+}
+
+.tamanio-texto {
+    font-size: 24px;
+}
+
+#segundoPar {
+    background-color: rgb(72, 185, 72);
+    font-weight: bold;
+}
