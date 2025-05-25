@@ -1,0 +1,7 @@
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/*Se puede combinar entre tipos de selectores y clases para la jerarquia descendiente.*/
